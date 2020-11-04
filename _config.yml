@@ -23,7 +23,7 @@ read_more                : "enabled" # if enabled, adds "Read more" links to exc
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "deeppatel"
+    shortname            : "lalitmanam"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deep Patel"
+  name             : "Lalit Manam"
   avatar           : "deep-patel-dp.jpg"
-  bio              : "M.Tech (Research), <br>Department of Electrical Engineering" # 3<sup>rd</sup>
-  location         : "C-235, Learning Systems & Multimedia Lab"
+  bio              : "PhD, <br>Department of Electrical Engineering" # 3<sup>rd</sup>
+  location         : "C-235, Computer Vision Lab"
   employer         : "Indian Institute of Science, Bangalore"
-  googlescholar    : "https://scholar.google.com/citations?user=VDmcq5wAAAAJ&hl=en"
-  email            : "dbp.patel.1994@gmail.com"
+  googlescholar    : "https://scholar.google.co.in/citations?user=9UpkJwMAAAAJ&hl=en&oi=ao"
+  email            : "l.manam1995@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         : # "raghavsomani95"
   foursquare       :
-  github           : "dbp1994"
+  github           : # "lalitmanam"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "deep-patel-7032b3a1"
+  linkedin         : "https://in.linkedin.com/in/lalitmanam"
   orcid            : #"https://orcid.org/0000-0002-0048-3490"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dbp_patel_1994"
+  twitter          : "lalitmanam"
   vine             :
   weibo            :
   xing             :
