@@ -7,13 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Ph.D. student in the [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/), Bengaluru. I am working at Computer Vision Laboratory, headed by Dr [Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html). Currently, I am looking into problems in 3D Vision, primarily on structure-from-motion and SLAM pipelines.
 
-I am a M.Tech (Research) student at [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} working with [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}.
-
-Currently, my research interest is _robust supervised learning_ where the robustness is against _label noise_.
-
-Previously, I spent a year as a Project Assistant at [SPIRE Lab](https://spire.ee.iisc.ac.in/spire/index.php){:target="_blank"} where I was advised by [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/new/people/faculty/prasantg/){:target="_blank"} on speech based detection of onset of Amyotrophic Lateral Sclerosis (ALS) and Parkinson's Disease.
+During B.Tech., I was working on impulse noise removal from colour images. I like volunteering and organising events. I enjoy listening to music in free time.
 
 Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
 
-Contact me at `dbp[dot]patel[dot]1994[at]gmail[dot]com` or `<first_name><second_name>[at]iisc[dot]ac[dot]in`.
+Contact me at `l[dot]manam1995[at]gmail[dot]com` or `<lalit><manam>[at]iisc[dot]ac[dot]in`.
