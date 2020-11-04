@@ -13,4 +13,4 @@ During B.Tech., I was working on impulse noise removal from colour images. I lik
 
 Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
 
-Contact me at `l[dot]manam1995[at]gmail[dot]com` or `<lalit><manam>[at]iisc[dot]ac[dot]in`.
+Contact me at `l[dot]manam1995[at]gmail[dot]com` or `lalitmanam[at]iisc[dot]ac[dot]in`.
