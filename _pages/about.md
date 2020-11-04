@@ -11,6 +11,4 @@ I am Ph.D. student in the [Department of Electrical Engineering](http://www.ee.i
 
 Previously, I worked on impulse noise removal from colour images. I like volunteering and organising events. I enjoy listening to music in free time.
 
-Here is my [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--inverse}
-
 Contact me at `l[dot]manam1995[at]gmail[dot]com` or `lalitmanam[at]iisc[dot]ac[dot]in`.
