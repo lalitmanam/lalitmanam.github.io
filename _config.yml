@@ -9,13 +9,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deep Patel"
+title                    : "Lalit Manam"
 title_separator          : "-"
-name                     : &name "Deep Patel"
-description              : &description "M.Tech (Research) \n Indian Institute of Science"
-url                      : https://dbp1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lalit Manam"
+description              : &description "Ph.D. \n Indian Institute of Science"
+url                      : https://lalitmanam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dbp1994/dbp1994.github.io"
+repository               : "lalitmanam/lalitmanam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) (Raghav - true has some bug)
 words_per_minute         : 160
