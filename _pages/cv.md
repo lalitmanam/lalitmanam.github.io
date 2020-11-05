@@ -25,7 +25,8 @@ I am interested in 3D Vision problems primarily on structure-from-motion and SLA
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
--->
+
+
 
 Education
 ------
@@ -46,7 +47,7 @@ Work experience
   * [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}
   * Mentors: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
   * Project Details:
--->
+
 Teaching experience
 ------
 
