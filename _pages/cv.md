@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\files\deep-patel-cv.pdf){: .btn .btn--info}
+The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
 Research Interests
 ------
