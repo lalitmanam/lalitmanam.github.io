@@ -26,6 +26,7 @@ I am interested in 3D Vision problems primarily on structure-from-motion and SLA
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
 Education
 ------
 * PhD, Aug 2018 - Present<br>
