@@ -9,22 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF version of my CV can be found here - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
+Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
 Research Interests
 ------
-My first encounter with Machine Learning was during the project ([link](https://dbp1994.github.io/projects/2018-11-03-project){:target="_blank"}) I worked on at SPIRE lab. However, I have shifted my focus to theoretical machine learning and my current research interest is in _robust supervised learning_ in the presence of _label noise_.
+I am interested in 3D Vision problems primarily on structure-from-motion and SLAM pipelines i.e a realization of 3D world. Previously, I was involved in development of impulse noise removal techniques from colour images.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
 
+<!--
 [Publications](https://dbp1994.github.io/publications/){:target="_blank"}
 ------
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 Education
 ------
 * M.Tech (Research), August 2018 - Present<br>
