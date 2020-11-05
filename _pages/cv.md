@@ -36,7 +36,7 @@ Education
 Advisor: [Dr Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
 
 * BTech, Aug 2013 - June 2017<br>
-Electronics and Communication Engineering,,br.
+Electronics and Communication Engineering,<br>
 National Institute of Technology Silchar
 
 <--
