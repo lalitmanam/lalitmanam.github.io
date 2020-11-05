@@ -56,6 +56,13 @@ Teaching experience
   * Course: Stochastic Models & Applications
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
+Relevant courses
+------
+* Computer Vision
+* Stochastic models and applications
+* Linear and non-linear optimization
+* Convex optimization
+* Machine Learning
 
 <!--
 [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
