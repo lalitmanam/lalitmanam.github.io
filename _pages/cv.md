@@ -28,11 +28,16 @@ I am interested in 3D Vision problems primarily on structure-from-motion and SLA
 -->
 Education
 ------
-* M.Tech (Research), August 2018 - Present<br>
+* PhD, Aug 2018 - Present<br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
-Advisor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+Advisor: [Dr Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
 
+* BTech, Aug 2013 - June 2017<br>
+Electronics and Communication Engineering
+National Institute of Technology Silchar
+
+<--
 Work experience
 ------
 
@@ -40,7 +45,7 @@ Work experience
   * [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"}
   * Mentors: [Dr. Prasanta Kumar Ghosh](http://www.ee.iisc.ac.in/faculty/prasantg/index.php){:target="_blank"}
   * Project Details:
-
+-->
 Teaching experience
 ------
 
