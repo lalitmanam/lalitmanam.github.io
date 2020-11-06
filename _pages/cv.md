@@ -13,7 +13,7 @@ Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
 Research Interests
 ------
-I am interested in 3D Vision problems primarily on structure-from-motion and SLAM pipelines i.e a realization of 3D world. Previously, I was involved in development of impulse noise removal techniques from colour images.
+I am currently interested in 3D Vision problems primarily on large scale structure-from-motion and SLAM pipelines. Previously, I was involved in development of impulse noise removal techniques from colour images.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
