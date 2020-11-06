@@ -42,6 +42,8 @@ I am working on 3D reconstruction problems in computer vision i.e. to build a 3D
 
 Depth cannot be recovered with a single image. Multiple images of the same scene is required to capture the 3D structure. Geometry of both the problems is same since both the applications use cameras. So building 3D representation requires estimating the orientation/viewing direction as well as the position of the cameras. My current work focuses on estimating orientations (also called rotation averaging) and positions of the cameras (called translation averaging). 
 
+Applications of SfM and SLAM algorithms include 3D exploration of photo collections and phone-based augmented reality.
+
 Education
 ------
 * PhD, August 2018 - Present<br>
