@@ -31,7 +31,7 @@ Current Research
 ------
 My current work focuses on 3D reconstruction problems which means to build a 3D representation of a scene. This requires estimating the locations of the cameras, where cameras would have been during image acquisition. 
 
-![SLAM Map](\images\Map.png | width=100)
+![SLAM Map](\images\Map.png)
 
 Education
 ------
