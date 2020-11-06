@@ -40,7 +40,7 @@ I am working on 3D reconstruction problems in computer vision i.e. to build a 3D
   
   ![SLAM Map](\images\Map.png){:height="50%" width="50%"}<br>
 
-Depth cannot be recovered with a single image. Multiple images of the same scene is required to capture the 3D structure. Geometry of both the problems is same since both the applications use cameras. So building 3D representation requires estimating orientation/viewing direction as well as the position of the cameras. My current work focuses on estimating orientations (also called rotation averaging) and positions of the cameras (called translation averaging). 
+Depth cannot be recovered with a single image. Multiple images of the same scene is required to capture the 3D structure. Geometry of both the problems is same since both the applications use cameras. So building 3D representation requires estimating the orientation/viewing direction as well as the position of the cameras. My current work focuses on estimating orientations (also called rotation averaging) and positions of the cameras (called translation averaging). 
 
 Education
 ------
