@@ -29,7 +29,7 @@ I am currently interested in 3D Vision problems primarily on large scale structu
 
 Current Research
 ------
-
+- image_path: Map.png
 
 Education
 ------
