@@ -36,7 +36,7 @@ My current work focuses on 3D reconstruction problems which means to build a 3D 
 - Simultaneous Localization and Mapping (SLAM)
   Incrementally build a map of the environment along with determining the camera location simultaneously.
   
-  ![SLAM Map](\images\Map.png){:height="50%" width="50%"}
+  ![SLAM Map](\images\Map.png){:height="50%" width="50%"}<br>
   *Environment map*
 
 Education
