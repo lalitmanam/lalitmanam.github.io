@@ -29,16 +29,18 @@ I am currently interested in 3D Vision problems primarily on large scale structu
 
 Current Research
 ------
-My current work focuses on 3D reconstruction problems which means to build a 3D representation of a scene. This requires estimating the locations of the cameras, where cameras would have been during image acquisition. Depending on the application, it can be broadly classified as 
+I am interested in 3D reconstruction problems i.e. to build a 3D representation of a scene. Depending on the application, it can be broadly classified as following
 - Structure-from-Motion (SfM)<br>
-  Build a 3D model of a scene.
+  Build a 3D model of a scene from a collection of images.
   
   ![SfM Model](\images\Vitthala1.jpg){:height="40%" width="40%"}
   
 - Simultaneous Localization and Mapping (SLAM)<br>
-  Incrementally build a map of the environment along with determining the camera location simultaneously.
+  Incrementally build a map of the environment from an image sequence along with determining the camera location simultaneously.
   
   ![SLAM Map](\images\Map.png){:height="50%" width="50%"}<br>
+
+Depth cannot be recovered with a single image. Multiple images of the same scene is required to capture the 3D structure. Geometry of both the problems are same since both the applications use cameras. So building 3D representation requires estimating the viewing direction as well as the position of the cameras. My current work focuses on estimating the viewing directions (called rotation averaging) and positions of the cameras (called translation averaging). 
 
 Education
 ------
