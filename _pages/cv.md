@@ -33,7 +33,7 @@ My current work focuses on 3D reconstruction problems which means to build a 3D 
 - Structure-from-Motion (SfM)<br>
   Build a 3D model of a scene.
   
-  ![SfM Model](\images\Vitthala1.jpg)
+  ![SfM Model](\images\Vitthala1.jpg){:height="40%" width="40%"}
   
 - Simultaneous Localization and Mapping (SLAM)<br>
   Incrementally build a map of the environment along with determining the camera location simultaneously.
