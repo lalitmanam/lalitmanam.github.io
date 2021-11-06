@@ -68,9 +68,13 @@ Work experience
 Teaching experience
 ------
 
-* October 2020 - February 2021: Teaching Assistant
+* October 2020 - January 2021: Teaching Assistant
   * Course: Stochastic Models & Applications
   * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+
+* February 2021 - May 2021: Teaching Assistant
+  * Course: Computer Vision
+  * Instructor: [Prof. Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
 
 Relevant courses
 ------
