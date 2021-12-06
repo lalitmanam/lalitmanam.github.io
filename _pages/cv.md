@@ -48,7 +48,7 @@ Education
 ------
 * PhD, August 2018 - Present<br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
-[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
+[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bengaluru<br>
 Advisor: [Prof. Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
 
 * BTech, August 2013 - June 2017<br>
