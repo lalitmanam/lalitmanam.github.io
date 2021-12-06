@@ -79,9 +79,9 @@ Teaching experience
 Relevant courses
 ------
 * Computer Vision
-* Stochastic models and applications
-* Linear and non-linear optimization
-* Convex optimization
+* Stochastic Models and Applications
+* Linear and Non-linear Optimization
+* Convex Optimization
 * Machine Learning
 
 <!--
