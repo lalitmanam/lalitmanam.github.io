@@ -49,7 +49,7 @@ Education
 * PhD, August 2018 - Present<br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bangalore<br>
-Advisor: [Dr Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
+Advisor: [Prof. Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
 
 * BTech, August 2013 - June 2017<br>
 Electronics and Communication Engineering,<br>
@@ -70,7 +70,7 @@ Teaching experience
 
 * October 2020 - January 2021: Teaching Assistant
   * Course: Stochastic Models & Applications
-  * Instructor: [Prof. PS Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+  * Instructor: [Prof. P S Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
 
 * February 2021 - May 2021: Teaching Assistant
   * Course: Computer Vision
