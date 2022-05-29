@@ -46,12 +46,12 @@ Applications of SfM and SLAM algorithms also include 3D exploration of photo col
 
 Education
 ------
-* PhD, August 2018 - Present<br>
+* PhD, Aug 2018 - Present<br>
 [Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
 [Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bengaluru<br>
 Advisor: [Prof. Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
 
-* BTech, August 2013 - June 2017<br>
+* BTech, Aug 2013 - Jun 2017<br>
 Electronics and Communication Engineering,<br>
 National Institute of Technology Silchar
 
@@ -68,13 +68,13 @@ Work experience
 Teaching experience
 ------
 
-* October 2020 - January 2021: Teaching Assistant
-  * Course: Stochastic Models & Applications
-  * Instructor: [Prof. P S Sastry](http://www.ee.iisc.ac.in/faculty/sastry/index.php){:target="_blank"}
+* Teaching Assistant, Fall 2020
+  * Course: Stochastic Models & Applications (E1-222)
+  * Instructor: [Prof. P S Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}
 
-* February 2021 - May 2021: Teaching Assistant
-  * Course: Computer Vision
-  * Instructor: [Prof. Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
+* Teaching Assistant, Spring 2021, 2022
+  * Course: Computer Vision (E1-216)
+  * Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"}
 
 Relevant courses
 ------
