@@ -15,4 +15,4 @@ I am Ph.D. student in the [Department of Electrical Engineering](https://ee.iisc
 
 Previously, I worked on impulse noise removal from colour images. I like volunteering and organising events. I enjoy listening to music in free time.
 
-Contact me at `l[dot]manam1995[at]gmail[dot]com` or `lalitmanam[at]iisc[dot]ac[dot]in`.
+Contact me at `l.manam1995[at]gmail.com` or `lalitmanam[at]iisc.ac.in`.
