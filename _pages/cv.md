@@ -68,10 +68,19 @@ Work experience
 Teaching Assistantships
 ------
 
-* Indian Institute of Science
-  * Course: Computer Vision (E1-216); Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"}; Spring 2021, 2022, 2023
+* Indian Institute of Science - Spring 2021, 2022, 2023
+  * Course: Computer Vision (E1-216)
+  * Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"};
 
-* Teaching Assistant, Fall 2020
+* NPTEL IIT Guwahati - Spring 2023
+  * Course: Computer Vision and Image Processing (NOC23-EE39)
+  * Instructor: [Prof. M K Bhuyan]
+
+* NPTEL IIT Kharagpur - Fall 2022
+  * Course: Computer Vision (NOC22-CS89)
+  * Instructor: [Prof. J Mukhopadhyay]
+
+* Indian Institute of Science - Fall 2020
   * Course: Stochastic Models & Applications (E1-222)
   * Instructor: [Prof. P S Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}
 
