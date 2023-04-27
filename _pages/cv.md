@@ -65,16 +65,15 @@ Work experience
   * Project Details:
 --->
 
-Teaching experience
+Teaching Assistantships
 ------
 
-* Teaching Assistant, Spring 2021, 2022, 2023
-  * Course: Computer Vision (E1-216)
-   * Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"}
+* Indian Institute of Science
+  * Course: Computer Vision (E1-216); Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"}; Spring 2021, 2022, 2023
 
 * Teaching Assistant, Fall 2020
   * Course: Stochastic Models & Applications (E1-222)
-   * Instructor: [Prof. P S Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}
+  * Instructor: [Prof. P S Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}
 
 Relevant courses
 ------
