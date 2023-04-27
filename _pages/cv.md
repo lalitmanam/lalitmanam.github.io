@@ -74,11 +74,11 @@ Teaching Assistantships
 
 * NPTEL IIT Guwahati - Spring 2023
   * Course: Computer Vision and Image Processing (NOC23-EE39)
-  * Instructor: [Prof. M K Bhuyan]
+  * Instructor: Prof. M K Bhuyan
 
 * NPTEL IIT Kharagpur - Fall 2022
   * Course: Computer Vision (NOC22-CS89)
-  * Instructor: [Prof. J Mukhopadhyay]
+  * Instructor: Prof. J Mukhopadhyay
 
 * Indian Institute of Science - Fall 2020
   * Course: Stochastic Models & Applications (E1-222)
