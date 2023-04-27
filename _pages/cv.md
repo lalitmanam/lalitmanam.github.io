@@ -31,7 +31,7 @@ Publications
 ------
 
 - C. Sidhartha, **L. Manam**, V.M. Govindu, ``Adaptive annealing for robust geometric estimation,'' accepted at Computer Vision and Pattern Recognition (CVPR), 2023
-- **L. Manam**, V.M. Govindu, ``Correspondence reweighted translation averaging," European Conference on Computer Vision (ECCV), pp. 56-72, 2022
+- **L. Manam**, V.M. Govindu, ``Correspondence reweighted translation averaging," European Conference on Computer Vision (ECCV), pp. 56-72, 2022 [project page](https://ee.iisc.ac.in/cvlab/research/creta/){:target="_blank"}
 - A. Roy, **L. Manam**, R.H. Laskar, ``Removal of `Salt \& Pepper' noise from color images using adaptive fuzzy technique based on histogram estimation," Multimedia Tools and Applications, vol. 79, no. 47, pp. 34851-34873, Dec. 2020
 - A. Roy, **L. Manam** and R.H. Laskar, “Region adaptive fuzzy filter: an approach for removal of random valued impulse noise,” IEEE Transactions on Industrial Electronics, vol. 65, no. 9, pp. 7268-7278, Sept. 2018
 - **L. Manam**, A. Roy, R. H. Laskar and F. A. Talukdar, “Removal of fixed valued impulse noise using global noise statistics based adaptive histogram fuzzy filter,” TENCON 2017 - IEEE Region 10 Conference, pp. 2231-2235, 2017
@@ -81,7 +81,7 @@ Teaching Assistantships
 
 * Indian Institute of Science - Spring 2021, 2022, 2023
   * Course: Computer Vision (E1-216)
-  * Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"};
+  * Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"}
 
 * NPTEL IIT Guwahati - Spring 2023
   * Course: Computer Vision and Image Processing (NOC23-EE39)
