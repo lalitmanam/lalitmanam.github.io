@@ -11,7 +11,9 @@ redirect_from:
   - /about.html
   - /aboutme.html
 ---
-I am Ph.D. student in the [Department of Electrical Engineering](https://ee.iisc.ac.in/){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/), Bengaluru. I am working at [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/). Currently, I am looking into problems in 3D Vision, primarily on structure-from-motion and SLAM pipelines.
+I am Ph.D. student in the [Department of Electrical Engineering](https://ee.iisc.ac.in/){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/), Bengaluru. I am working at the [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/). My research is supported by [Prime Minister's Research Fellowship](https://www.pmrf.in/).
+
+My current research interests are in 3D computer vision. My recent work is mostly related to estimating camera motions in 3D reconstructoin problems like structure-from-motion and simultaneous-localization-and-mapping.
 
 Previously, I worked on impulse noise removal from colour images. I like volunteering and organising events. I enjoy listening to music in free time.
 
