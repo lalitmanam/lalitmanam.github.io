@@ -57,9 +57,9 @@ Publications
 Education
 ------
 * PhD, Aug 2018 - Present<br>
-[Department of Electrical Engineering](http://www.ee.iisc.ac.in){:target="_blank"},
-[Indian Institute of Science](https://www.iisc.ac.in/){:target="_blank"}, Bengaluru<br>
-Advisor: [Prof. Venu Madhav Govindu](http://www.ee.iisc.ac.in/people/faculty/venu/index.html){:target="_blank"}
+[Electrical Engineering](https://ee.iisc.ac.in/){:target="_blank"},<br>
+[Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} Bengaluru<br>
+Advisor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/venu-madhav-govindu/){:target="_blank"}
 
 * BTech, Aug 2013 - Jun 2017<br>
 Electronics and Communication Engineering,<br>
