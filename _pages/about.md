@@ -18,3 +18,12 @@ My current research interests are in 3D computer vision. My recent work is mostl
 Previously, I spent about two years working on impulse noise removal from colour images during my undergraduate days. I like volunteering and organising events. I enjoy listening to music in free time.
 
 Contact me at `l.manam1995[at]gmail.com` or `lalitmanam[at]iisc.ac.in`.
+
+
+----------------------------------------------------------------------------------------------------
+
+News
+---
+* 02/2023 - Our paper 'Adaptive Annealing for Robust Geometric Estimation' has been accepted at CVPR 2023!
+* 07/2022 - Our paper '[Correspondence Reweighted Translation Averaging](https://ee.iisc.ac.in/cvlab/research/creta/)' has been accepted at ECCV 2022!
+* 04/2022 - Presented my work on Translation Averaging at [EECS Symposium 2022](https://eecs.iisc.ac.in/EECS2022/student_abstracts.html#lalit_ee)
