@@ -17,6 +17,8 @@ My current research interests are in 3D computer vision. My recent work is mostl
 
 Previously, I spent about two years working on impulse noise removal from colour images during my undergraduate days. I like volunteering and organising events. I enjoy listening to music in free time.
 
+Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
+
 Contact me at `l.manam1995[at]gmail.com` or `lalitmanam[at]iisc.ac.in`.
 
 
