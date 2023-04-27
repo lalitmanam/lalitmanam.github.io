@@ -13,7 +13,7 @@ Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
 Research Interests
 ------
-I am currently interested in 3D Vision problems primarily on large scale structure-from-motion and SLAM pipelines. Previously, I was involved in development of impulse noise removal techniques from colour images.
+I am currently interested in 3D Vision problems primarily on large scale structure-from-motion and SLAM pipelines. My recent work has been on developing methods to estimate camera motions in structure-from-motion. Previously, I was involved in development of impulse noise removal techniques from colour images.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
@@ -84,7 +84,7 @@ Teaching Assistantships
   * Course: Stochastic Models & Applications (E1-222)
   * Instructor: [Prof. P S Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}
 
-Relevant courses
+Relevant Courses
 ------
 * Computer Vision
 * Stochastic Models and Applications
