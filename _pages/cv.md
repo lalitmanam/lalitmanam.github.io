@@ -47,7 +47,7 @@ Applications of SfM and SLAM algorithms also include 3D exploration of photo col
 Publications
 ------
 
-- **L. Manam**, V.M. Govindu, ``Sensitivity in translation averaging,'' Advances in Neural Information Processing Systems (NeurIPS), 2023
+- **L. Manam**, V.M. Govindu, ``Sensitivity in translation averaging,'' Neural Information Processing Systems (NeurIPS), 2023
 - C. Sidhartha, **L. Manam**, V.M. Govindu, ``Adaptive annealing for robust geometric estimation,'' IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 21929-21939, 2023 [[project page](https://ee.iisc.ac.in/cvlab/research/adanroge/){:target="_blank"}]
 - **L. Manam**, V.M. Govindu, ``Correspondence reweighted translation averaging," European Conference on Computer Vision (ECCV), pp. 56-72, 2022 [[project page](https://ee.iisc.ac.in/cvlab/research/creta/){:target="_blank"}]
 - A. Roy, **L. Manam**, R.H. Laskar, ``Removal of `Salt & Pepper' noise from color images using adaptive fuzzy technique based on histogram estimation," Multimedia Tools and Applications, vol. 79, no. 47, pp. 34851-34873, Dec. 2020
