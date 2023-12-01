@@ -26,8 +26,9 @@ Contact me at `l.manam1995[at]gmail.com` or `lalitmanam[at]iisc.ac.in`.
 
 News
 ---
-* 09/2023 - Our paper 'Sensitivity in Translation Averaging' has been accepted at NeurIPS 2023!
+* 10/2023 - Our paper, 'Fusing Directions and Displacements in Translation Averaging,' has been accepted at 3DV 2024!
+* 09/2023 - Our paper, '[Sensitivity in Translation Averaging](https://ee.iisc.ac.in/cvlab/research/tasensitivity/),' has been accepted at NeurIPS 2023!
 * 07/2023 - Presented a talk on 'Solving Translation Averaging - Lessons for Engineers', took a tutorial on '3D Volumetric Rendering - Neural Radiance Fields' and was a part of Student Panel at Panel discussion at [IISc EE Summer School](https://ee.iisc.ac.in/summerschool2023/)
-* 02/2023 - Our paper '[Adaptive Annealing for Robust Geometric Estimation](https://ee.iisc.ac.in/cvlab/research/adanroge/)' has been accepted at CVPR 2023!
-* 07/2022 - Our paper '[Correspondence Reweighted Translation Averaging](https://ee.iisc.ac.in/cvlab/research/creta/)' has been accepted at ECCV 2022!
+* 02/2023 - Our paper, '[Adaptive Annealing for Robust Geometric Estimation](https://ee.iisc.ac.in/cvlab/research/adanroge/),' has been accepted at CVPR 2023!
+* 07/2022 - Our paper, '[Correspondence Reweighted Translation Averaging](https://ee.iisc.ac.in/cvlab/research/creta/),' has been accepted at ECCV 2022!
 * 04/2022 - Presented my work on Translation Averaging at [EECS Symposium 2022](https://eecs.iisc.ac.in/EECS2022/student_abstracts.html#lalit_ee)
