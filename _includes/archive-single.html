@@ -59,6 +59,9 @@
     {% endif %}
     
     <p>
+      {% if post.projectpage %}
+        [<a href=" {{ post.projectpage }} " target="_blank"><u>project page</u></a>]
+      {% endif %}
       {% if post.paperurl %}
         [<a href=" {{ post.paperurl }} " target="_blank"><u>paper</u></a>]
       {% endif %}
