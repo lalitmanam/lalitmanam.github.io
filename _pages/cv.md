@@ -79,6 +79,13 @@ Work experience
   * Project Details:
 --->
 
+Talks/Tutorials
+------
+
+* Presented a talk on ‘Solving Translation Averaging - Lessons for Engineers’ at [IISc EE Summer School 2023](https://ee.iisc.ac.in/summerschool2023/)
+* Took a tutorial on ‘3D Volumetric Rendering - Neural Radiance Fields’ at [IISc EE Summer School 2023](https://ee.iisc.ac.in/summerschool2023/)
+* Presented my work on Translation Averaging at [EECS Symposium 2022](https://eecs.iisc.ac.in/EECS2022/student_abstracts.html#lalit_ee)
+
 Teaching Assistantships
 ------
 
