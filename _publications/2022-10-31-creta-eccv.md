@@ -2,7 +2,7 @@
 title: "Correspondence reweighted translation averaging"
 collection: publications
 permalink: /publications/2022-10-31-creta-eccv
-excerpt: 'Accepted as poster'
+excerpt: 'Accepted as poster.'
 date: 2022-10-31
 venue: 'European Conference on Computer Vision (ECCV)'
 year: '2020'
