@@ -3,13 +3,13 @@ title: "Sensitivity in translation averaging"
 collection: publications
 permalink: /publications/2023-12-31-tasensitivity-neurips
 excerpt: 'Accepted as poster'
-date: 2023-06-31
+date: 2023-09-31
 venue: 'Neural Information Processing Systems (NeurIPS)'
 year: '2023'
 authors: 'Lalit Manam, Venu Madhav Govindu'
 projectpage: 'https://ee.iisc.ac.in/cvlab/research/tasensitivity/'
 paperurl: 'https://ee.iisc.ac.in/cvlab/research/tasensitivity/ta_sensitivity.pdf'
-bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:E-NVbTwnNl4J:scholar.google.com/&output=citation&scisdr=ClG-4mYUEJvRycAy3i8:AFWwaeYAAAAAZWs0xi8jRJUzji63qfPqc4AdcBU&scisig=AFWwaeYAAAAAZWs0xi-qOPSEokC6D7P5GQNT0LA&scisf=4&ct=citation&cd=-1&hl=en'
+bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:4HgGdDwKem0J:scholar.google.com/&output=citation&scisdr=ClG-4mYUEJvRycAzneA:AFWwaeYAAAAAZWs1heDQSFMpDJAKn8ZGEXcKooc&scisig=AFWwaeYAAAAAZWs1hcfDFdV62hU9kxKFJddsrkY&scisf=4&ct=citation&cd=-1&hl=en'
 
 ---
 <!-- poster: 'https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf' -->
