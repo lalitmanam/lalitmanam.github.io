@@ -57,6 +57,7 @@ Publications
 - **L. Manam**, A. Roy, R. H. Laskar and F. A. Talukdar, “Removal of fixed valued impulse noise using global noise statistics based adaptive histogram fuzzy filter,” TENCON 2017 - IEEE Region 10 Conference, pp. 2231-2235, 2017
 - A. Roy, J. Singha, **L. Manam**, R.H. Laskar, “Combination of adaptive vector median filter and weighted mean filter for removal of high density impulse noise from color images,” IET Image Processing, vol. 11, no. 6, pp. 352-361, Jan. 2017
 --->
+
 Education
 ------
 * PhD, Aug 2018 - Present<br>
