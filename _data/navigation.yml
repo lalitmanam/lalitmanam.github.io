@@ -15,13 +15,13 @@ main:
         
   # - title: "Blog"
   #  url: /year-archive/
-      
-  # - title: "Publications"
-  #  url: /publications/
-  
+
   - title: "CV"
     url: /cv/
-
+      
+  - title: "Publications"
+    url: /publications/
+   
   #- title: "Misc"
   #  url: /misc/
   # - title: "Guide"
