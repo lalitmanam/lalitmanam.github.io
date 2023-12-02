@@ -2,7 +2,7 @@
 title: "Adaptive annealing for robust geometric estimation"
 collection: publications
 permalink: /publications/2023-06-31-adanroge-cvpr
-excerpt: 'Poster'
+excerpt: 'Accepted as poster'
 date: 2023-06-31
 venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 year: '2023'
