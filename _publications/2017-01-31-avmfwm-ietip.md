@@ -6,7 +6,7 @@ excerpt: ''
 date: 2017-01-31
 venue: 'IET Image Processing'
 year: '2017'
-authors: 'Amarjit Roy, Joyeeta Singha, **Lalit Manam**, Rabul Laskar'
+authors: 'Amarjit Roy, Joyeeta Singha, Lalit Manam, Rabul Laskar'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2016.0320'
 bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:fvNuV1Qa0oAJ:scholar.google.com/&output=citation&scisdr=ClG-4mYUEJvRycAs55E:AFWwaeYAAAAAZWsq_5FcpygH_SklSkkfu79poRQ&scisig=AFWwaeYAAAAAZWsq_xGKC1Nosw6e47PLDY3pIx0&scisf=4&ct=citation&cd=-1&hl=en'
 
