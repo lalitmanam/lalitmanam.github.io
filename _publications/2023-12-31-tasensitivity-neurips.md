@@ -2,7 +2,7 @@
 title: "Sensitivity in translation averaging"
 collection: publications
 permalink: /publications/2023-12-31-tasensitivity-neurips
-excerpt: 'Accepted as poster'
+excerpt: 'Accepted as poster.'
 date: 2023-09-31
 venue: 'Neural Information Processing Systems (NeurIPS)'
 year: '2023'
