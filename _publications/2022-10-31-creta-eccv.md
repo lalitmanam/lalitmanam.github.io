@@ -5,7 +5,7 @@ permalink: /publications/2022-10-31-creta-eccv
 excerpt: 'Accepted as poster.'
 date: 2022-10-31
 venue: 'European Conference on Computer Vision (ECCV)'
-year: '2020'
+year: '2022'
 authors: 'Lalit Manam, Venu Madhav Govindu'
 projectpage: 'https://ee.iisc.ac.in/cvlab/research/creta/'
 paperurl: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf'
