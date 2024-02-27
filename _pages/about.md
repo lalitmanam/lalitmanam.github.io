@@ -26,7 +26,8 @@ Contact me at `l.manam1995[at]gmail.com` or `lalitmanam[at]iisc.ac.in`.
 
 News
 ---
-* 10/2023 - Our paper, 'Fusing Directions and Displacements in Translation Averaging,' has been accepted at 3DV 2024!
+* 02/2024 - Our paper, 'Leveraging Camera Triplets for Efficient and Accurate Structure-from-Motion,' has been accepted at CVPR 2024!
+* 10/2023 - Our paper, '[Fusing Directions and Displacements in Translation Averaging](https://ee.iisc.ac.in/cvlab/research/fusedta/),' has been accepted at 3DV 2024!
 * 09/2023 - Our paper, '[Sensitivity in Translation Averaging](https://ee.iisc.ac.in/cvlab/research/tasensitivity/),' has been accepted at NeurIPS 2023!
 * 07/2023 - Presented a talk on 'Solving Translation Averaging - Lessons for Engineers', took a tutorial on '3D Volumetric Rendering - Neural Radiance Fields' and was a part of Student Panel at Panel discussion at [IISc EE Summer School](https://ee.iisc.ac.in/summerschool2023/)
 * 02/2023 - Our paper, '[Adaptive Annealing for Robust Geometric Estimation](https://ee.iisc.ac.in/cvlab/research/adanroge/),' has been accepted at CVPR 2023!
