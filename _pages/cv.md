@@ -79,17 +79,18 @@ Work experience
   * Project Details:
 --->
 
-Talks/Tutorials
+Talks/Tutorials/Lectures
 ------
-
-* Presented a talk on ‘Solving Translation Averaging - Lessons for Engineers’ at [IISc EE Summer School 2023](https://ee.iisc.ac.in/summerschool2023/)
-* Took a tutorial on ‘3D Volumetric Rendering - Neural Radiance Fields’ at [IISc EE Summer School 2023](https://ee.iisc.ac.in/summerschool2023/)
-* Presented my work on Translation Averaging at [EECS Symposium 2022](https://eecs.iisc.ac.in/EECS2022/student_abstracts.html#lalit_ee)
+* 04/2024 - Presented my recent works at [IISc EECS Symposium 2024](https://eecs.iisc.ac.in/EECS2024/)
+* 04/2024 - Took a lecture on ‘3D Volumetric Rendering' in Computer Vision Course (E1-216), IISc
+* 07/2023 - Presented a talk on ‘Solving Translation Averaging - Lessons for Engineers’ at [IISc EE Summer School 2023](https://ee.iisc.ac.in/summerschool2023/)
+* 07/2023 - Took a tutorial on ‘3D Volumetric Rendering - Neural Radiance Fields’ at [IISc EE Summer School 2023](https://ee.iisc.ac.in/summerschool2023/)
+* 04/2022 - Presented my work on Translation Averaging at [IISc EECS Symposium 2022](https://eecs.iisc.ac.in/EECS2022/student_abstracts.html#lalit_ee)
 
 Teaching Assistantships
 ------
 
-* Indian Institute of Science - Spring 2021, 2022, 2023
+* Indian Institute of Science - Spring 2021, 2022, 2023, 2024
   * Course: Computer Vision (E1-216)
   * Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"}
 
