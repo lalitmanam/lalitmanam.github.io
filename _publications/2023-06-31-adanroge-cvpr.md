@@ -9,7 +9,6 @@ year: '2023'
 authors: 'Chitturi Sidhartha, Lalit Manam, Venu Madhav Govindu'
 projectpage: 'https://ee.iisc.ac.in/cvlab/research/adanroge/'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf'
-bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:E-NVbTwnNl4J:scholar.google.com/&output=citation&scisdr=ClG-4mYUEJvRycAy3i8:AFWwaeYAAAAAZWs0xi8jRJUzji63qfPqc4AdcBU&scisig=AFWwaeYAAAAAZWs0xi-qOPSEokC6D7P5GQNT0LA&scisf=4&ct=citation&cd=-1&hl=en'
 
 ---
 <!-- poster: 'https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf' -->
