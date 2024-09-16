@@ -8,7 +8,6 @@ venue: 'TENCON 2017 - IEEE Region 10 Conference'
 year: '2017'
 authors: 'Lalit Manam, Amarjit Roy, Fazal Talukdar, Rabul Laskar'
 paperurl: 'https://ieeexplore.ieee.org/document/8228232'
-bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:q82iCdguLukJ:scholar.google.com/&output=citation&scisdr=ClG-4mYUEJvRycArrn8:AFWwaeYAAAAAZWsttn83xh9RU3a-a1nHyxiMHgU&scisig=AFWwaeYAAAAAZWsttjbrVU3RMGWwPHTtWx9KduQ&scisf=4&ct=citation&cd=-1&hl=en'
 
 ---
 <!-- poster: 'https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf' -->
