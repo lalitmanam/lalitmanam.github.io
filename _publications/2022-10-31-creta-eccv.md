@@ -9,7 +9,6 @@ year: '2022'
 authors: 'Lalit Manam, Venu Madhav Govindu'
 projectpage: 'https://ee.iisc.ac.in/cvlab/research/creta/'
 paperurl: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf'
-bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:7LkdqhoMSKEJ:scholar.google.com/&output=citation&scisdr=ClG-4mYUEJvRycA24ZE:AFWwaeYAAAAAZWsw-ZGBiE4X6SuhdlSGN3a9i_0&scisig=AFWwaeYAAAAAZWsw-aJFEFikO8WrUCKAf7tYJp0&scisf=4&ct=citation&cd=-1&hl=en'
 
 ---
 <!-- poster: 'https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf' -->
