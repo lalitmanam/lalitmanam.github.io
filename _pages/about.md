@@ -11,21 +11,22 @@ redirect_from:
   - /about.html
   - /aboutme.html
 ---
-I am Ph.D. student in the [Department of Electrical Engineering](https://ee.iisc.ac.in/){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/), Bengaluru. I am working at the [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/). My research is supported by [Prime Minister's Research Fellowship](https://www.pmrf.in/).
+I completed my PhD in the [Department of Electrical Engineering](https://ee.iisc.ac.in/){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/), Bengaluru. I was working at the [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/), where my research was supported by [Prime Minister's Research Fellowship](https://www.pmrf.in/).
 
-My current research interests are in 3D computer vision. My recent work is mostly related to estimating camera motions in 3D reconstruction problems like structure-from-motion and simultaneous-localization-and-mapping.
+My current research interests are in 3D computer vision. My recent work mostly focused on estimating camera motions in 3D reconstruction problems like structure-from-motion and simultaneous-localization-and-mapping.
 
 Previously, I spent about two years working on impulse noise removal from colour images during my undergraduate days. I like volunteering and organising events. I enjoy listening to music in free time.
 
 Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
-Contact me at `l.manam1995[at]gmail.com` or `lalitmanam[at]iisc.ac.in`.
+Contact me at `lalitmanam[at]gmail.com`.
 
 
 ----------------------------------------------------------------------------------------------------
 
 News
 ---
+* 03/2025 - Defended my PhD Thesis 'Global Methods for Camera Motion Estimation'
 * 04/2024 - Presented my recent works at [IISc EECS Symposium 2024](https://eecs.iisc.ac.in/EECS2024/)
 * 02/2024 - Our paper, '[Leveraging Camera Triplets for Efficient and Accurate Structure-from-Motion](https://ee.iisc.ac.in/cvlab/research/camtripsfm/),' has been accepted at CVPR 2024!
 * 10/2023 - Our paper, '[Fusing Directions and Displacements in Translation Averaging](https://ee.iisc.ac.in/cvlab/research/fusedta/),' has been accepted at 3DV 2024!
