@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Lalit Manam"
   avatar           : "Lalit_Manam-dp.jpg"
-  bio              : "Postdoc <br> Mitsubishi Electric Research Labs" # 3<sup>rd</sup>
-  location         : ""
-  employer         : ""
+  bio              : "Postdoctoral Researcher" # 3<sup>rd</sup>
+  # location         : ""
+  employer         : "Mitsubishi Electric Research Labs"
   googlescholar    : "https://scholar.google.co.in/citations?user=9UpkJwMAAAAJ&hl=en&oi=ao"
   email            : "lalitmanam@gmail.com"
   uri              :
