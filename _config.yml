@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Lalit Manam"
 title_separator          : "-"
 name                     : &name "Lalit Manam"
-description              : &description "Ph.D. \n Indian Institute of Science"
+description              : &description "Postdoc \n Mitsubishi Electric Research Labs"
 url                      : https://lalitmanam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lalitmanam/lalitmanam.github.io"
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Lalit Manam"
   avatar           : "Lalit_Manam-dp.jpg"
-  bio              : "PhD, <br>Dept. of Electrical Engineering" # 3<sup>rd</sup>
-  location         : "C-235, Computer Vision Lab"
-  employer         : "Indian Institute of Science, Bengaluru"
+  bio              : "Postdoc <br> Mitsubishi Electric Research Labs" # 3<sup>rd</sup>
+  location         : ""
+  employer         : ""
   googlescholar    : "https://scholar.google.co.in/citations?user=9UpkJwMAAAAJ&hl=en&oi=ao"
-  email            : "l.manam1995@gmail.com"
+  email            : "lalitmanam@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
