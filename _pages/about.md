@@ -27,7 +27,7 @@ Contact me at `lalitmanam[at]gmail.com`.
 
 News
 ---
-* 10.2025 - I joined Mitsubishi Electric Research Labs as a postdoc!
+* 10/2025 - I joined Mitsubishi Electric Research Labs as a postdoc!
 * 09/2025 - Our paper, 'Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Strucrure-from-Motion' has been accepted at IJCV, more details coming soon!
 * 09/2025 - Selected for 2025 ICCV Doctoral Consortium, see you there!
 * 03/2025 - Defended my PhD Thesis titled 'Global Methods for Camera Motion Estimation'
