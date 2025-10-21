@@ -11,11 +11,12 @@ redirect_from:
   - /about.html
   - /aboutme.html
 ---
-I completed my PhD in the [Department of Electrical Engineering](https://ee.iisc.ac.in/){:target="_blank"}, [Indian Institute of Science](https://iisc.ac.in/), Bengaluru. I was working at the [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/), where my research was supported by [Prime Minister's Research Fellowship](https://www.pmrf.in/).
+I am a postdoc at [Mitsubishi Electric Research Corporation](https://merl.com/), looking at 3D reconstruction problems in computer vision. Previously, I completed my PhD from the [Indian Institute of Science](https://iisc.ac.in/) where I worked at the [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/). My research in PhD was supported by a [Prime Minister's Research Fellowship](https://www.pmrf.in/).
 
-My current research interests are in 3D computer vision. My recent work mostly focused on estimating camera motions in 3D reconstruction problems like structure-from-motion and simultaneous-localization-and-mapping.
-
-Previously, I spent about two years working on impulse noise removal from colour images during my undergraduate days. I like volunteering and organising events. I enjoy listening to music in free time.
+<!--
+My research interests are broadly in 3D reconstruction problems in computer vision. My recent works focus on estimating camera motions in 3D reconstruction problems like structure-from-motion and simultaneous-localization-and-mapping.
+-->
+During my undergraduate days, I spent about two years working on impulse noise removal from colour images. I like volunteering and organising events. I enjoy listening to music in free time.
 
 Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
@@ -26,7 +27,9 @@ Contact me at `lalitmanam[at]gmail.com`.
 
 News
 ---
-* 03/2025 - Defended my PhD Thesis 'Global Methods for Camera Motion Estimation'
+* 09/2025 - Our paper, 'Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Strucrure-from-Motion' has been accepted at IJCV, more details coming soon!
+* 09/2025 - Selected for 2025 ICCV Doctoral Consortium, see you there!
+* 03/2025 - Defended my PhD Thesis titled 'Global Methods for Camera Motion Estimation'
 * 04/2024 - Presented my recent works at [IISc EECS Symposium 2024](https://eecs.iisc.ac.in/EECS2024/)
 * 02/2024 - Our paper, '[Leveraging Camera Triplets for Efficient and Accurate Structure-from-Motion](https://ee.iisc.ac.in/cvlab/research/camtripsfm/),' has been accepted at CVPR 2024!
 * 10/2023 - Our paper, '[Fusing Directions and Displacements in Translation Averaging](https://ee.iisc.ac.in/cvlab/research/fusedta/),' has been accepted at 3DV 2024!
