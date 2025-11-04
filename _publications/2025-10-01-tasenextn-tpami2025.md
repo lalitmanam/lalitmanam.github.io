@@ -2,7 +2,7 @@
 title: "Sensitivity Analysis in Translation Averaging"
 collection: publications
 permalink: /publications/2025-10-01-tasenextn-tpami2025
-excerpt: 'Under Review'
+excerpt: 'Under Review.'
 date: 2025-10-01
 venue: 'Under Review at T-PAMI'
 year: '2025'

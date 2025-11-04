@@ -2,7 +2,7 @@
 title: "Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Structure-from-Motion"
 collection: publications
 permalink: /publications/2025-10-01-camtripsfmextn-ijcv2025
-excerpt: 'In Press'
+excerpt: 'In Press.'
 date: 2025-10-01
 venue: 'International Journal of Computer Vision'
 year: '2025'
