@@ -61,7 +61,7 @@ Publications
 Experience
 ------
 * Postdoctoral Researcher, Oct 2025 - Present<br>
-[Mitsubishi Electric Research Labs](https://merl.com/){:target="_blank"},<br>
+[Mitsubishi Electric Research Labs](https://merl.com/){:target="_blank"}<br>
 Cambridge, MA, USA<br>
 
 Education
