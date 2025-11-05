@@ -13,7 +13,7 @@ Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
 Research Interests
 ------
-I am currently interested in 3D Vision problems primarily on large scale structure-from-motion and SLAM pipelines. My recent work has been on developing methods to estimate camera motions in structure-from-motion. Previously, I was involved in development of impulse noise removal techniques from colour images.
+I am currently interested in 3D reconstruction problems in computer vision, primarily on large-scale structure-from-motion and SLAM pipelines. My recent work has been on developing methods for efficient and reliable estimation of camera motions in structure-from-motion. Previously, I was involved in the development of impulse noise removal techniques from colour images.
 
 <!--* Research Interests - Machine Learning
 * Other Learning Interests - ... -->
@@ -29,18 +29,18 @@ I am currently interested in 3D Vision problems primarily on large scale structu
 
 Current Research
 ------
-I am working on 3D reconstruction problems in computer vision i.e. to build a 3D representation of a scene from images. Depending on the application, it can be broadly classified as following
+I am working on 3D reconstruction problems in computer vision, i.e. to build a 3D representation of a scene from images. Depending on the application, it can be broadly classified as follows:
 - Structure-from-Motion (SfM)<br>
   Build a 3D model of a scene from a collection of images.
   
   ![SfM Model](\images\Vitthala1.jpg){:height="40%" width="40%"}
   
 - Simultaneous Localization and Mapping (SLAM)<br>
-  Incrementally build a map of the environment from an image sequence along with determining the camera location simultaneously.
+  Incrementally build a map of the environment from an image sequence, while simultaneously determining the camera position and orientation.
   
   ![SLAM Map](\images\Map.png){:height="50%" width="50%"}<br>
 
-Depth cannot be recovered with a single image. Multiple images of the same scene is required to capture the 3D structure. Geometry of both the problems is same since both the applications use cameras. So building 3D representation requires estimating the orientation/viewing direction as well as the position of the cameras. My current work focuses on estimating orientations (also called rotation averaging) and positions of the cameras (called translation averaging). 
+Depth cannot be recovered with a single image. Multiple images of the same scene are required to capture its 3D structure. The geometry of both problems is the same, as both applications utilize cameras. Building a 3D representation requires estimating the orientation/viewing direction as well as the position of the cameras. My current work focuses on estimating orientations (also called rotation averaging) and positions of the cameras (called translation averaging). 
 
 Applications of SfM and SLAM algorithms also include 3D exploration of photo collections and phone-based augmented reality.
 
@@ -58,16 +58,22 @@ Publications
 - A. Roy, J. Singha, **L. Manam**, R.H. Laskar, “Combination of adaptive vector median filter and weighted mean filter for removal of high density impulse noise from color images,” IET Image Processing, vol. 11, no. 6, pp. 352-361, Jan. 2017
 --->
 
+Experience
+------
+* Postdoctoral Researcher, Oct 2025 - Present<br>
+[Mitsubishi Electric Research Labs](https://merl.com/){:target="_blank"},<br>
+Cambridge, MA, USA<br>
+
 Education
 ------
-* PhD, Aug 2018 - Present<br>
+* Ph.D. & M.Tech.(Res), Aug 2018 - Mar 2025<br>
 [Electrical Engineering](https://ee.iisc.ac.in/){:target="_blank"},<br>
-[Indian Institute of Science](https://iisc.ac.in/){:target="_blank"} Bengaluru<br>
+[Indian Institute of Science](https://iisc.ac.in/){:target="_blank"}, Bengaluru, India<br>
 Advisor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/venu-madhav-govindu/){:target="_blank"}
 
-* BTech, Aug 2013 - Jun 2017<br>
+* B.Tech., Aug 2013 - Jun 2017<br>
 Electronics and Communication Engineering,<br>
-National Institute of Technology Silchar
+National Institute of Technology, Silchar, India
 
 <!--
 Work experience
@@ -90,7 +96,7 @@ Talks/Tutorials/Lectures
 Teaching Assistantships
 ------
 
-* Indian Institute of Science - Spring 2021, 2022, 2023, 2024
+* Indian Institute of Science - Spring 2021-24
   * Course: Computer Vision (E1-216)
   * Instructor: [Prof. Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/){:target="_blank"}
 
@@ -106,6 +112,7 @@ Teaching Assistantships
   * Course: Stochastic Models & Applications (E1-222)
   * Instructor: [Prof. P S Sastry](https://ee.iisc.ac.in/sastry-p-s/){:target="_blank"}
 
+<!--
 Relevant Courses
 ------
 * Computer Vision
@@ -113,6 +120,7 @@ Relevant Courses
 * Linear and Non-linear Optimization
 * Convex Optimization
 * Machine Learning
+-->
 
 <!--
 [Projects](https://dbp1994.github.io/projects/){:target="_blank"}
