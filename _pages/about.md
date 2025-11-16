@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
   - /aboutme.html
 ---
-I am a postdoc at [Mitsubishi Electric Research Labs](https://merl.com/), looking at 3D reconstruction problems in computer vision. Previously, I completed my PhD from the [Indian Institute of Science](https://iisc.ac.in/) where I worked at the [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/). My research in PhD was supported by a [Prime Minister's Research Fellowship](https://www.pmrf.in/).
+I am a postdoc at [Mitsubishi Electric Research Labs](https://merl.com/people/manam), looking at 3D reconstruction problems in computer vision. Previously, I completed my PhD from the [Indian Institute of Science](https://iisc.ac.in/) where I worked at the [Computer Vision Laboratory](https://ee.iisc.ac.in/cvlab/), headed by Prof [Venu Madhav Govindu](https://ee.iisc.ac.in/~venu/). My research in PhD was supported by a [Prime Minister's Research Fellowship](https://www.pmrf.in/).
 
 <!--
 My research interests are broadly in 3D reconstruction problems in computer vision. My recent works focus on estimating camera motions in 3D reconstruction problems like structure-from-motion and simultaneous-localization-and-mapping.
