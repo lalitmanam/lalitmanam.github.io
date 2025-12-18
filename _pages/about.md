@@ -20,9 +20,10 @@ During my undergraduate days, I spent about two years working on impulse noise r
 
 Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
-Contact - 
-Office: `manam[at]merl.com`
-Personal: `lalitmanam[at]gmail.com`.
+Contact
+
+* Office: `manam[at]merl.com`
+* Personal: `lalitmanam[at]gmail.com`.
 
 ----------------------------------------------------------------------------------------------------
 
