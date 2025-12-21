@@ -22,7 +22,7 @@ Download my CV - [__Curriculum Vitae__](\files\LM_Resume.pdf){: .btn .btn--info}
 
 Contact
 
-* Office: `manam[at]merl.com`
+* Work: `manam[at]merl.com`
 * Personal: `lalitmanam[at]gmail.com`
 
 ----------------------------------------------------------------------------------------------------
