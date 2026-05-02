@@ -30,7 +30,7 @@ Contact
 News
 ---
 * 10/2025 - I joined Mitsubishi Electric Research Labs as a postdoc!
-* 09/2025 - Our paper, 'Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Structure-from-Motion' has been accepted at IJCV, more details coming soon!
+* 09/2025 - Our paper, '[Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Structure-from-Motion](https://ee.iisc.ac.in/cvlab/research/camtripsfm/)' has been accepted at IJCV!
 * 09/2025 - Selected for 2025 ICCV Doctoral Consortium, see you there!
 * 03/2025 - Defended my PhD Thesis titled 'Global Methods for Camera Motion Estimation'
 * 04/2024 - Presented my recent works at [IISc EECS Symposium 2024](https://eecs.iisc.ac.in/EECS2024/)
