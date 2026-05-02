@@ -3,9 +3,9 @@ title: "Sensitivity Analysis in Translation Averaging"
 collection: publications
 permalink: /publications/2025-10-01-tasenextn-tpami2025
 excerpt: 'Under Review.'
-date: 2025-10-01
+date: 2026-04-01
 venue: 'Under Review at T-PAMI'
-year: '2025'
+year: '2026'
 authors: 'Lalit Manam, Venu Madhav Govindu'
 # projectpage: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/'
 # paperurl: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/cam_triplets_sfm.pdf'
