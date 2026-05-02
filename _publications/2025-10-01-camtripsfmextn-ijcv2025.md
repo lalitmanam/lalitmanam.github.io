@@ -2,13 +2,13 @@
 title: "Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Structure-from-Motion"
 collection: publications
 permalink: /publications/2025-10-01-camtripsfmextn-ijcv2025
-excerpt: 'In Press.'
-date: 2025-10-01
+excerpt: 'Published.'
+date: 2026-03-07
 venue: 'International Journal of Computer Vision'
-year: '2025'
+year: '2026'
 authors: 'Lalit Manam, Venu Madhav Govindu'
-# projectpage: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/'
-# paperurl: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/cam_triplets_sfm.pdf'
+projectpage: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/'
+paperurl: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/unify_sfm.pdf'
 
 ---
 <!-- paperurl: 'https://ee.iisc.ac.in/cvlab/research/tasensitivity/ta_sensitivity.pdf'
