@@ -9,7 +9,7 @@ year: '2024'
 authors: 'Lalit Manam, Venu Madhav Govindu'
 projectpage: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/'
 paperurl: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/cam_triplets_sfm.pdf'
-
+code: 'https://ee.iisc.ac.in/cvlab/research/camtripsfm/camtripsfm.zip'
 ---
 <!-- paperurl: 'https://ee.iisc.ac.in/cvlab/research/tasensitivity/ta_sensitivity.pdf'
 bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:4HgGdDwKem0J:scholar.google.com/&output=citation&scisdr=ClG-4mYUEJvRycAzneA:AFWwaeYAAAAAZWs1heDQSFMpDJAKn8ZGEXcKooc&scisig=AFWwaeYAAAAAZWs1hcfDFdV62hU9kxKFJddsrkY&scisf=4&ct=citation&cd=-1&hl=en'
