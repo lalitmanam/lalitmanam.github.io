@@ -29,7 +29,7 @@ Contact
 
 News
 ---
-* 02/2025 - Our papers, '[Parallel Rigidity Matters for Bundle Adjustment](https://merl.com/research/highlights/parallel-rigid-ba)' and '[Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](https://merl.com/research/highlights/slam-mer)' have been accepted at CVPR 2026!
+* 02/2026 - Our papers, '[Parallel Rigidity Matters for Bundle Adjustment](https://merl.com/research/highlights/parallel-rigid-ba)' and '[Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](https://merl.com/research/highlights/slam-mer)' have been accepted at CVPR 2026!
 * 12/2025 - My thesis was awarded [IUPRAI Doctoral Dissertation Award](https://cvit.iiit.ac.in/iuprai/dissertation.html)!
 * 10/2025 - I joined Mitsubishi Electric Research Labs as a postdoc!
 * 09/2025 - Our paper, '[Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Structure-from-Motion](https://ee.iisc.ac.in/cvlab/research/camtripsfm/)' has been accepted at IJCV!
