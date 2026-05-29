@@ -2,7 +2,6 @@
 title: "Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Structure-from-Motion"
 collection: publications
 permalink: /publications/2025-10-01-camtripsfmextn-ijcv2025
-excerpt: 'Published.'
 date: 2026-03-07
 venue: 'International Journal of Computer Vision'
 year: '2026'
@@ -16,7 +15,7 @@ bib: 'https://scholar.googleusercontent.com/scholar.bib?q=info:4HgGdDwKem0J:scho
 -->
 <!-- poster: 'https://dbp1994.github.io/publications/files/ICASSP_ALS_2018_poster.pdf' -->
 <!-- projectpage: 'https://ee.iisc.ac.in/cvlab/research/tasensitivity/' -->
-<!-- code: 'https://github.com/RaghavSomani/CMTRF' -->
+<!-- code: 'https://github.com/RaghavSomani/CMTRF' excerpt: 'Published.' -->
 
 In Structure-from-Motion (SfM), viewgraphs obtained from pairwise camera relationships generally have a high redundancy of edges that can be sparsified while maintaining reconstruction quality. Due to incorrect image matching and repeated structures in scenes (symmetries), false edges are often present in the viewgraphs, which gives rise to ghosting and superimposed reconstruction artifacts. In this paper, we present a unified method to simultaneously perform the tasks of viewgraph sparsification via redundant edge removal and disambiguation by removing false edges. We design an edge scoring mechanism to determine redundant and false edges based on triples of cameras that have either two or three edges connecting the three cameras. Our edge selection is formulated as an optimization problem whose optimum can be obtained using a simple thresholding scheme. This results in a highly efficient algorithm which can be applied to any viewgraph without any restriction on its topology. Our algorithm can be incorporated into any SfM pipeline as a pre-processing step, making it modular. We demonstrate the efficacy of our method on publicly available datasets, with a significant reduction in reconstruction time while maintaining reconstruction quality and removing ghosting artifacts on generic datasets. Our method also removes false edges from ambiguous datasets, thereby avoiding incorrect superimposed reconstructions.
 
