@@ -1,5 +1,5 @@
 ---
-title: "Combination of adaptive vector median filter and weighted mean filter for removal of high density impulse noise from color images"
+title: "Combination of Adaptive Vector Median Filter and Weighted Mean Filter for Removal of High Density Impulse Noise from Color Images"
 collection: publications
 permalink: /publications/2017-01-31-avmfwmf-ietip
 excerpt: ''
