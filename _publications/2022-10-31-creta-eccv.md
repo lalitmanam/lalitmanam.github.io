@@ -1,5 +1,5 @@
 ---
-title: "Correspondence reweighted translation averaging"
+title: "Correspondence Reweighted Translation Averaging"
 collection: publications
 permalink: /publications/2022-10-31-creta-eccv
 excerpt: 'Accepted as poster.'
