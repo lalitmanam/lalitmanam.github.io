@@ -1,5 +1,5 @@
 ---
-title: "Removal of fixed valued impulse noise using global noise statistics based adaptive histogram fuzzy filter"
+title: "Removal of Fixed Valued Impulse Noise using Global Noise Statistics based Adaptive Histogram Fuzzy Filter"
 collection: publications
 permalink: /publications/2017-12-31-ghff-tencon
 excerpt: ''
