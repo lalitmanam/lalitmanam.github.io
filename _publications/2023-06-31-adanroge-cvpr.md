@@ -1,5 +1,5 @@
 ---
-title: "Adaptive annealing for robust geometric estimation"
+title: "Adaptive Annealing for Robust Geometric Estimation"
 collection: publications
 permalink: /publications/2023-06-31-adanroge-cvpr
 excerpt: 'Accepted as poster.'
