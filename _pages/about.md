@@ -29,14 +29,15 @@ Contact
 
 News
 ---
+* 08/2026 - Our paper, '[Sensitivity Analysis in Translation Averaging](https://ee.iisc.ac.in/cvlab/research/tasensitivity/)' has been accepted at TPAMI!
 * 02/2026 - Our papers, '[Parallel Rigidity Matters for Bundle Adjustment](https://merl.com/research/highlights/parallel-rigid-ba)' and '[Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](https://merl.com/research/highlights/slam-mer)' have been accepted at CVPR 2026!
 * 12/2025 - My thesis was awarded [IUPRAI Doctoral Dissertation Award](https://cvit.iiit.ac.in/iuprai/dissertation.html)!
 * 10/2025 - I joined Mitsubishi Electric Research Labs as a postdoc!
 * 09/2025 - Our paper, '[Unifying Viewgraph Sparsification and Disambiguation of Repeated Structures in Structure-from-Motion](https://ee.iisc.ac.in/cvlab/research/camtripsfm/)' has been accepted at IJCV!
 * 09/2025 - Selected for 2025 ICCV Doctoral Consortium, see you there!
-* 03/2025 - Defended my PhD Thesis titled 'Global Methods for Camera Motion Estimation'
 
 <!--
+* 03/2025 - Defended my PhD Thesis titled 'Global Methods for Camera Motion Estimation'
 * 04/2024 - Presented my recent works at [IISc EECS Symposium 2024](https://eecs.iisc.ac.in/EECS2024/)
 * 02/2024 - Our paper, '[Leveraging Camera Triplets for Efficient and Accurate Structure-from-Motion](https://ee.iisc.ac.in/cvlab/research/camtripsfm/),' has been accepted at CVPR 2024!
 * 10/2023 - Our paper, '[Fusing Directions and Displacements in Translation Averaging](https://ee.iisc.ac.in/cvlab/research/fusedta/),' has been accepted at 3DV 2024!
