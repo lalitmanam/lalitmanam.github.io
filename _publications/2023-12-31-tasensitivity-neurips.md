@@ -1,5 +1,5 @@
 ---
-title: "Sensitivity in translation averaging"
+title: "Sensitivity in Translation Averaging"
 collection: publications
 permalink: /publications/2023-12-31-tasensitivity-neurips
 excerpt: 'Accepted as poster.'
